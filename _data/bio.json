@@ -6,9 +6,9 @@
     "email": "grahambr@hawaii.edu",
     "phone": "808-308-0723",
     "website": "https://gbfrancisco.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am currently studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021. I am mainly interested in video game development and graphics design.",
     "location": {
-      "address": "",
+      "address": "98-630 Moanalua Loop, Aiea",
       "postalCode": "96701",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -22,22 +22,15 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "grahambr@hawaii.edu",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "video game design",
+      "name": "video game development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -56,32 +49,27 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript (In progress)"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Video Games",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "League of Legends",
+        "RPG",
+        "FPS",
+        "Single-player games"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-08-20",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -90,69 +78,65 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "",
+      "position": "",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        ""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Damien Leo Club",
+      "website": "",
+      "position": "Member",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Volunteer who actively served the community through various activities",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Helped the fund-raising campaign for the Special Olympics Hawaii",
+        "Gave supplies and meals for the Great Aloha Run participants"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Chancellor Scholarship",
+      "date": "2017-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Granted to upcoming Freshman at UH Manoa, who maintained a GPA of 3.5 in his entire High School career."
     },
     {
-      "title": "First place",
+      "title": "Third Honorable Mention",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Damien Memorial School",
+      "summary": "Awarded for having the third best cummulative GPA in the entirety of High School."
     }
   ],
   "references": [
