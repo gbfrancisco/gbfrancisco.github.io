@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: AsteroidDodge
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
