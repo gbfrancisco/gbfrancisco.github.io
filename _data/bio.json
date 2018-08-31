@@ -77,28 +77,7 @@
     }
   ],
   "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
+    "N/A"
   ],
   "volunteer": [
     {
@@ -111,17 +90,6 @@
       "highlights": [
         "Helped the fund-raising campaign for the Special Olympics Hawaii",
         "Gave supplies and meals for the Great Aloha Run participants"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
       ]
     }
   ],
