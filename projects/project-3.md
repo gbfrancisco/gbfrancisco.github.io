@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/asteroid.png
+image: images/asteroidpiece.png
 title: AsteroidDodge
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
