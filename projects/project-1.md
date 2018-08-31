@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/taro.png
+image: images/tarovector.png
 title: TaroGotchi
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
