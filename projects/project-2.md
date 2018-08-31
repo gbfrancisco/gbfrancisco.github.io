@@ -2,14 +2,15 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Roombrah
+permalink: projects/Roombrah
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - ICS 111
+  - Roombrah
+  - EZ Graphics
+summary: A roomba simulator demonstrating the use of 2D arrays and file reading.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
