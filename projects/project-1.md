@@ -11,6 +11,7 @@ labels:
   - Java
   - Eclipse
   - ICS 111
+  - EZ Graphics
 summary: The very first program that I made in Introduction to ICS.
 ---
 
