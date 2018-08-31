@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+published: true
+image: images/taro.png
+title: TaroGotchi
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-30-18
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Eclipse
+  - ICS 111
+summary: The very first program that I made in Introduction to ICS.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/taro.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The TaroGotchi is the very first ICS project I have done in ICS 111. It acts as a simulator where there is a plant and two buttons: fertilize and water. Each has its own respective functions; for instance, pressing the fertilize button would increase the plant's health enabling it to survive and leave room for growth while pressing the water button would grow the plant while decreasing the amount of fertilizer it has. The goal of the game is to sufficiently fertilize and water the taro plant until it reaches a certain height. Although, if one over-fertilizes or over-waters the plant, its health would start to decline and once it dies, the game is over.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+TaroGotchi is written in Java and with the use of [EZ Graphics](http://www2.hawaii.edu/~dylank/ics111/), a Java class created by Dylan Kobayashi designed to help beginner programmers to display graphics and sounds. Since this is my first program that I have ever written, I learned the complexity of solving problems. There may have been guidelines to help us through the project, but one must conceptualize how each line works. It also reminds me how creative you can be when writing your code; in other words, you can implement a certain function in many different ways. Looking back at it now, I can laugh at my own code due to its sloppy formatting and unecessarily complicated implementations, but I do realize that we all have to start somewhere and it won't be easy.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://drive.google.com/open?id=1SxpCbil2_ySkbjAaKmNu4gl4v3OQaDkZ"><i class="large github icon"></i>TaroGotchi</a>
