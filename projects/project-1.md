@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/tarovector.png
 title: TaroGotchi
-permalink: projects/vacay
+permalink: projects/project-1
 # All dates must be YYYY-MM-DD format!
 date: 2018-30-18
 labels:
