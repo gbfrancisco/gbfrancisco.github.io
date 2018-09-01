@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/asteroidpiece.png
 title: AsteroidDodge
-permalink: projects/micromouse
+permalink: projects/project-3
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
