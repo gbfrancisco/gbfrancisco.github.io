@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/1up.png
 title: Roombrah
-permalink: projects/Roombrah
+permalink: projects/project-2
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
