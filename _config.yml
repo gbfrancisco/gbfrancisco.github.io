@@ -25,5 +25,3 @@ rouge-theme: igorpro
 markdown: kramdown
 include: [_data]
 
-# Just testing because my profile won't update quickly.
-Future: true
