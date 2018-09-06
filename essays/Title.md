@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: P90X Javascript edition.
+title: Insert Title Here.
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
