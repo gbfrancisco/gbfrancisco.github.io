@@ -1,13 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Insert Title Here.
+title: Insert Title Here
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
   - Javascript
-  - Reflection
-  - WODs
 ---
 
 <img class="ui tiny left floated image" src="../images/javascript.jpg">
