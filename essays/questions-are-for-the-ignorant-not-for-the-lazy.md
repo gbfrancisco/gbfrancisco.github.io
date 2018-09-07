@@ -29,6 +29,7 @@ Eric S. Raymond, one of the authors of "How to Ask Questions The Smart Way", pro
   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 </p>
 
+<img class="ui tiny center image" src="http://www.fillmurray.com/460/300">
 
 According to Raymond,
 
