@@ -20,9 +20,11 @@ When attempting to understand new concepts that seem too complex to grasp or try
 
 Eric S. Raymond, one of the authors of "How to Ask Questions The Smart Way", provides several key points on how to ask smart and meaningful questions. He descriptively laid out how "hackers" love solving challenging problems and that it keeps their minds constantly engaged and stimulated. That is not to say they are always available around, answering every question they find, continuously catering to people's ignorance. They have lives too, they have their own problems to deal with and throwing lackadaisical questions at them will not help them at all. In Raymond's essay, there are select key points that stand out the most among his ample set of rules: 
 
-- At least attempt what you are asking first (or know something about it)
-- Use meaningful, specific subject headers
+- At least attempt to solve what you are asking first (or know something about it)
 - Be precise and informative about your problem
+- Use meaningful, specific subject headers
+
+### At least have some knowledge regarding your question
 
 According to Raymond,
 
@@ -40,4 +42,24 @@ This question would then be granted with a very detailed answer.
   <img width="589" height="740" src="../images/goodanswer.PNG">
 </p>
 
-Not everyone is expected to find solutions by themselves, and people out there are willing to help if the person who asked the question showed effort in solving the problem first. Although, if 
+Not everyone is expected to find solutions by themselves, and people out there are willing to help if the person who asked the question showed effort in solving the problem first. I believe that cooperation and teamwork allow for better learning experience and it is never wrong to rely on others for help. Although, if that person tries to obtain answers the *easy way*, it will only display laziness and arrogance, and most people will have minimal tolerance for lackluster effort.
+
+### What do you include in the question?
+
+On the other hand, people should include more details when forming questions. This way, others who (kindly enough) give attention to such questions are not left guessing the actual problem. Not only does it waste time for those people who try to answer, but it also aggravates them. The person asking should at least add his code, or type a paragraph explaining his progress and struggles. This way, it would be easier to diagnose the problem and formulate possible solutions. [Here's an example]():
+
+*The original unedited post did not include the person's code so I had to exclude it.*
+
+<p align="center">
+  <img width="592" height="305" src="../images/badquestion.PNG">
+</p>
+
+Because of the post's lack of information and precision, it got downvoted and not surprisingly, it pissed off some people.
+
+<p align="center">
+  <img width="597" height="626" src="../images/badanswer.PNG">
+</p>
+
+## Do your research first
+
+Last but not the least, refrain from asking 
