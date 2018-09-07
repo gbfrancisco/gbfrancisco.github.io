@@ -28,7 +28,7 @@ According to Raymond,
 
 > When you ask your question, display \[...\] that you're not being a lazy sponge and wasting people's time.
 
-My personal interpretation on this key point is that you should not ask about something when you have not researched or read about it. It often helps to try to understand the concepts that relate to the question beforehand because there will be a chance that the answer will be as incomprehensible as the problem being inquired about. This can also apply to writing codes. Those who ask must attempt to solve the problem until they are completely out of options (and they should show their attmpts too). An example of a good question would be this:
+My personal interpretation on this key point is that you should not ask about something when you have not researched or read about it. It often helps to try to understand the concepts that relate to the question beforehand because there will be a chance that the answer will be as incomprehensible as the problem being inquired about. This can also apply to writing codes. Those who ask must attempt to solve the problem until they are completely out of options (and they should show their attmpts too). [An example of a good question would be this](https://stackoverflow.com/questions/363681/how-do-i-generate-random-integers-within-a-specific-range-in-java#):
 
 <p align="center">
   <img width="728" height="480" src="../images/goodquestion.PNG">
@@ -40,5 +40,4 @@ This question would then be granted with a very detailed answer.
   <img width="589" height="740" src="../images/goodanswer.PNG">
 </p>
 
-
-<img class="ui small right floated image" src="../images/finish.jpg">
+Not everyone is expected to find solutions by themselves, and people out there are willing to help if the person who asked the question showed effort in solving the problem first. Although, if 
