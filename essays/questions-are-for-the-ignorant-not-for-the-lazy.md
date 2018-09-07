@@ -20,9 +20,9 @@ Eric S. Raymond, one of the authors of "How to Ask Questions The Smart Way", pro
 
 - At least attempt to solve what you are asking first (or know something about it)
 - Be precise and informative about your problem
-- Use meaningful, specific subject headers
+- Search for answers first before asking a question
 
-### At least have some knowledge regarding your question
+### At least have some knowledge regarding your question.
 
 According to Raymond,
 
@@ -42,9 +42,9 @@ This question would then be granted with a very detailed answer.
 
 Not everyone is expected to find solutions by themselves, and people out there are willing to help if the person who asked the question showed effort in solving the problem first. I believe that cooperation and teamwork allow for better learning experience and it is never wrong to rely on others for help. Although, if that person tries to obtain answers the *easy way*, it will only display laziness and arrogance, and most people will have minimal tolerance for lackluster effort.
 
-### What do you include in the question?
+### Be detailed, and provide the right information.
 
-On the other hand, people should include more details when forming questions. This way, others who (kindly enough) give attention to such questions are not left guessing the actual problem. Not only does it waste time for those people who try to answer, but it also aggravates them. The person asking should at least add his code, or type a paragraph explaining his progress and struggles. This way, it would be easier to diagnose the problem and formulate possible solutions. [Here's an example]():
+On the other hand, people should include more details when forming questions. This way, others who (kindly enough) give attention to such questions are not left guessing the actual problem. Not only does it waste time for those people who try to answer, but it also aggravates them. The person asking should at least add his code, or type a paragraph explaining his progress and struggles. This way, it would be easier to diagnose the problem and formulate possible solutions. [Here's an example](https://stackoverflow.com/questions/49124849/can-someone-help-me-with-this-algorithm):
 
 *The original unedited post did not include the person's code so I had to exclude it.*
 
@@ -58,6 +58,15 @@ Because of the post's lack of information and precision, it got downvoted and no
   <img width="597" height="626" src="../images/badanswer.PNG">
 </p>
 
-## Do your research first
+## Do your research first.
 
-Last but not the least, refrain from asking 
+Last but not the least, refrain from asking a question that could be searched on Google or other reliable sites. Raymond explicitly says that it is necessary to look for answers first before asking. Chances are, a question has already been asked innumerable times to the point where one could Google for the answer and find countless results. Furthermore, asking a question that has been asked so many times often leads to vague and unserious answers. [Here's an example](https://stackoverflow.com/questions/245062/whats-the-difference-between-javascript-and-java):
+
+<p align="center">
+  <img width="592" height="630" src="../images/terriblequestion.PNG">
+</p>
+
+As a result, the question is provided with no details at all regarding what specific concept is different between JavaScript and Java. At least if the person asking the question specified on what parts do the two languages differ such as function implementation, object creation, how variables are declared, etc. then people might have answered in a more informative and concise manner.
+
+Overall, Raymond addresses that people need to make sure they properly formulate their questions and do their own research prior to requesting for assistance; I agree with his notions because it does seem unfair that some people could obtain answers from experts while others had to exert maximum effort to find such answers. The ability to ask questions is without a doubt a boon in this modern world, but its value continues to degrade as some people become more and more reliant on others rather than themselves.
+
