@@ -20,30 +20,19 @@ When attempting to understand new concepts that seem too complex to grasp or try
 
 Eric S. Raymond, one of the authors of "How to Ask Questions The Smart Way", provides several key points on how to ask smart and meaningful questions. He descriptively laid out how "hackers" love solving challenging problems and that it keeps their minds constantly engaged and stimulated. That is not to say they are always available around, answering every question they find, continuously catering to people's ignorance. They have lives too, they have their own problems to deal with and throwing lackadaisical questions at them will not help them at all. In Raymond's essay, there are select key points that stand out the most among his ample set of rules: 
 
-- Attempt to solve the problem or search for answers before asking
+- Know at least somthing about what you're asking
 - Use meaningful, specific subject headers
 - Be precise and informative about your problem
-- 
 
 <p align="center">
   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 </p>
 
-<img class="ui tiny center image" src="http://www.fillmurray.com/460/300">
-
 According to Raymond,
 
-> 1. Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
-> 2. Try to find an answer by searching the Web.
-> 3. Try to find an answer by reading the manual.
-> 4. Try to find an answer by reading a FAQ.
-> 5. Try to find an answer by inspection or experimentation.
-> 6. Try to find an answer by asking a skilled friend.
-> 7. If you're a programmer, try to find an answer by reading the source code.
->
-> When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time.
+> When you ask your question, display \[...\] that you're not being a lazy sponge and wasting people's time.
 
-
+My personal interpretation on this key point is that
 
 <img class="ui small left floated image" src="../images/p90x.jpg">
 
