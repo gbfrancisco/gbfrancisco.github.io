@@ -20,7 +20,7 @@ But why Sherlock Holmes? What makes him so special that I am alluding to him in 
 
 ## On Deep Work
 
-<img class="ui small left floated image" src="../images/Newport.jpg">
+<img class="ui medium right floated image" src="../images/Newport.jpg">
 
 From the author (and Computer Scientist) Cal Newport, deep work is the intense concentration when tackling on a given task. It is the type of focus that requires absolute attention to your work, avoiding all forms of distractions (including music, so sorry music fans...). Such complete involvement in your work allows you to create less mistakes, learn concepts faster and reduce stress despite working intensely on a short burst of time.
 
