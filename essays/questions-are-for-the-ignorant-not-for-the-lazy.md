@@ -33,6 +33,7 @@ According to Raymond,
 > 5. Try to find an answer by inspection or experimentation.
 > 6. Try to find an answer by asking a skilled friend.
 > 7. If you're a programmer, try to find an answer by reading the source code.
+>
 > When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time.
 
 
