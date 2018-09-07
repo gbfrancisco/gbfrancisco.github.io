@@ -20,22 +20,25 @@ When attempting to understand new concepts that seem too complex to grasp or try
 
 Eric S. Raymond, one of the authors of "How to Ask Questions The Smart Way", provides several key points on how to ask smart and meaningful questions. He descriptively laid out how "hackers" love solving challenging problems and that it keeps their minds constantly engaged and stimulated. That is not to say they are always available around, answering every question they find, continuously catering to people's ignorance. They have lives too, they have their own problems to deal with and throwing lackadaisical questions at them will not help them at all. In Raymond's essay, there are select key points that stand out the most among his ample set of rules: 
 
-- Know at least somthing about what you're asking
+- At least attempt what you are asking first (or know something about it)
 - Use meaningful, specific subject headers
 - Be precise and informative about your problem
-
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
 
 According to Raymond,
 
 > When you ask your question, display \[...\] that you're not being a lazy sponge and wasting people's time.
 
-My personal interpretation on this key point is that
+My personal interpretation on this key point is that you should not ask about something when you have not researched or read about it. It often helps to try to understand the concepts that relate to the question beforehand because there will be a chance that the answer will be as incomprehensible as the problem being inquired about. This can also apply to writing codes. Those who ask must attempt to solve the problem until they are completely out of options (and they should show their attmpts too). An example of a good question would be this:
 
-<img class="ui small left floated image" src="../images/p90x.jpg">
+<p align="center">
+  <img width="460" height="300" src="../images/goodquestion.jpg">
+</p>
 
+This question would then be granted with a very detailed answer.
+
+<p align="center">
+  <img width="460" height="300" src="../images/goodanswer.jpg">
+</p>
 
 
 <img class="ui small right floated image" src="../images/finish.jpg">
