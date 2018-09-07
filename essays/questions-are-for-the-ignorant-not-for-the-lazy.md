@@ -31,13 +31,13 @@ According to Raymond,
 My personal interpretation on this key point is that you should not ask about something when you have not researched or read about it. It often helps to try to understand the concepts that relate to the question beforehand because there will be a chance that the answer will be as incomprehensible as the problem being inquired about. This can also apply to writing codes. Those who ask must attempt to solve the problem until they are completely out of options (and they should show their attmpts too). An example of a good question would be this:
 
 <p align="center">
-  <img width="460" height="300" src="../images/goodquestion.PNG">
+  <img width="728" height="480" src="../images/goodquestion.PNG">
 </p>
 
 This question would then be granted with a very detailed answer.
 
 <p align="center">
-  <img width="460" height="300" src="../images/goodanswer.PNG">
+  <img width="589" height="740" src="../images/goodanswer.PNG">
 </p>
 
 
