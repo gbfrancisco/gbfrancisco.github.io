@@ -20,9 +20,15 @@ When attempting to understand new concepts that seem too complex to grasp or try
 
 Eric S. Raymond, one of the authors of "How to Ask Questions The Smart Way", provides several key points on how to ask smart and meaningful questions. He descriptively laid out how "hackers" love solving challenging problems and that it keeps their minds constantly engaged and stimulated. That is not to say they are always available around, answering every question they find, continuously catering to people's ignorance. They have lives too, they have their own problems to deal with and throwing lackadaisical questions at them will not help them at all. In Raymond's essay, there are select key points that stand out the most among his ample set of rules: 
 
-- Use meaningful, specific subject headers, 
+- Attempt to solve the problem or search for answers before asking
+- Use meaningful, specific subject headers
+- Be precise and informative about your problem
 - 
-- 
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
 
 According to Raymond,
 
