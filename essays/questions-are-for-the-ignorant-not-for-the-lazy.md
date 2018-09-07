@@ -1,11 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Insert Title Here
+title: Questions Are for the Ignorant, Not for the Lazy
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
-  - Javascript
+  - Smart Questions
+  - Open Source Software
+  - Software Engineering
 ---
 
 <img class="ui tiny left floated image" src="../images/javascript.jpg">
@@ -16,11 +18,15 @@ When attempting to understand new concepts that seem too complex to grasp or try
 
 ## How do you ask questions?
 
-Eric S. Raymond, one of the authors of "How to Ask Questions The Smart Way", provides several key points on how to ask smart and meaningful questions. He descriptively laid out how "hackers" love solving challenging problems and that it keeps their minds constantly engaged and stimulated. That is not to say they are always available around, answering every question they find, continuously catering to people's ignorance. They have lives too, they have their own problems to deal with and throwing lackadaisical questions at them will not help them at all. In Raymond's essay, there are select key points that stand out the most among his ample set of rules:
+Eric S. Raymond, one of the authors of "How to Ask Questions The Smart Way", provides several key points on how to ask smart and meaningful questions. He descriptively laid out how "hackers" love solving challenging problems and that it keeps their minds constantly engaged and stimulated. That is not to say they are always available around, answering every question they find, continuously catering to people's ignorance. They have lives too, they have their own problems to deal with and throwing lackadaisical questions at them will not help them at all. In Raymond's essay, there are select key points that stand out the most among his ample set of rules: 
 
-According to Eric S. Raymond, ,
+- Use meaningful, specific subject headers, 
+- 
+- 
 
-> When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time.
+According to Raymond,
+
+> When you ask your question, display the fact that you have \[attempted to look for answers elsewehere\]; this will help establish that you're not being a lazy sponge and wasting people's time.
 
 
 
