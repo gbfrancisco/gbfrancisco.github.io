@@ -26,7 +26,14 @@ Eric S. Raymond, one of the authors of "How to Ask Questions The Smart Way", pro
 
 According to Raymond,
 
-> When you ask your question, display the fact that you have \[attempted to look for answers elsewehere\]; this will help establish that you're not being a lazy sponge and wasting people's time.
+> 1. Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
+> 2. Try to find an answer by searching the Web.
+> 3. Try to find an answer by reading the manual.
+> 4. Try to find an answer by reading a FAQ.
+> 5. Try to find an answer by inspection or experimentation.
+> 6. Try to find an answer by asking a skilled friend.
+> 7. If you're a programmer, try to find an answer by reading the source code.
+> When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time.
 
 
 
