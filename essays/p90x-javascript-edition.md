@@ -20,14 +20,14 @@ Having done in Java for the past two semesters, the transition to another langua
 
 To show some examples, in Java, you can specify the access level of your code: *public, protected, private*. Each can affect how your classes interact with each other; for instance, when a function is modified as private, only the class containing such function is able to call it. In JavaScript, however, you do not use such modifiers. 
 
-For instance, when making a function in JavaScript:
+**For instance, when making a function in JavaScript:**
 
 ```javascript
 function myFunction(myParam) {
   //my code
 }
 ```
-While in Java, writing a function would look like this:
+**While in Java, writing a function would look like this:**
 
 ```java
 public int myFunction(int myParam) {
@@ -36,16 +36,16 @@ public int myFunction(int myParam) {
 ```
 You notice that JavaScript seems very *conservative* and a lot cleaner when you look at it. Java, on the other hand, wants you to write a couple more words, otherwise it will constantly nag you. Speaking of which, Java does feel restrictive in terms of its syntax. For example, it requires you to tell what type a variable is before declaring it such as *int, float, String, etc.* whereas in JavaScript, you declare them using *var, let, and const.*
 
-Javascript:
+**Javascript:**
 
 ```javascript
 var foo = 0;
 let bar = "";
 const fooBar = 3.14;
 ```
-Java:
+**Java:**
 
-```javascript
+```java
 int foo = 0;
 String bar = "";
 static final double fooBar = 3.14;
