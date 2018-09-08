@@ -18,13 +18,23 @@ Having done in Java for the past two semesters, the transition to another langua
 
 ### Access Levels
 
-In Java, you can specify the access level of your code: public, protected, private. Each can affect how your classes interact with each other; for instance, when a function is modified as private, only the class containing such function is able to call it. In JavaScript, however, you do not use such modifiers. For instance when making a function:
+To show some examples, in Java, you can specify the access level of your code: public, protected, private. Each can affect how your classes interact with each other; for instance, when a function is modified as private, only the class containing such function is able to call it. In JavaScript, however, you do not use such modifiers. 
+
+For instance, when making a function in JavaScript:
 
 ```javascript
-function myFunction {
+function myFunction(myParam) {
   //my code
 }
 ```
+While in Java, writing a function would look like this:
+
+```java
+public int myFunction(int myParam) {
+  //my code
+}
+```
+You notice that JavaScript seems very *conservative* and a lot cleaner when you look at it. Java, on the other hand, wants you to write a couple more words, otherwise it will constantly nag you. Speaking of nagging, Java does feel 
 
 <img class="ui small left floated image" src="../images/p90x.jpg">
 
