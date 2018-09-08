@@ -52,9 +52,11 @@ static final double fooBar = 3.14;
 ```
 Overall, JavaScript somewhat feels less constricted compared to Java. One might think this is an advantage for the former over the latter, but I personally think it is just a property that differentiates them both, not necessarily a good or a bad quality. Some might prefer a language that is somewhat more detailed like Java (in terms of syntax) while others prefer more *freedom* in their codes. Nevertheless, I am very intrigued and eager to learn more about JavaScript and identify its key differences with Java.
 
+## Workout of the Day
+
 <img class="ui small left floated image" src="../images/p90x.jpg">
 
-As for the workout of the day (WODs), they seem to push the students to find solutions in faster and more efficient ways. The timed practice WODs are essential tools not only to practice for class assessments but also to improve our critical thinking and problem-solving skills. It almost feels like I am on the P90X workout program, and it will probably be a tough and gruelling schedule that could potentially yield great results, depending on my concentration and determination to improve. Overall, the teaching style is meant to get students out of the comfort zone, and I do agree that this is a fundamental aspect of deliberate practice. Nevertheless, it is definitely intersting to see my results as I challenge myself through these WODs. 
+As for the workout of the day (WOD), they seem to push the students to find solutions in faster and more efficient ways. The timed practice WODs are essential tools not only to practice for class assessments but also to improve our critical thinking and problem-solving skills. It almost feels like I am on the P90X workout program, and it will probably be a tough and gruelling schedule that could potentially yield great results, depending on my concentration and determination to improve. Overall, the teaching style is meant to get students out of the comfort zone, and I do agree that this is a fundamental aspect of deliberate practice. Nevertheless, it is definitely intersting to see my results as I challenge myself through these WODs. 
 
-<img class="ui small right floated image" src="../images/finish.jpg">
+<img class="ui small left floated image" src="../images/finish.jpg">
 
