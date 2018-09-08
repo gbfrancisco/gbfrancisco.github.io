@@ -12,7 +12,19 @@ labels:
 
 <img class="ui tiny left floated image" src="../images/javascript.jpg">
 
-Having done in Java for the past two semesters, the transition to another language, namely Javascript, has been a lot smoother than expected as opposed to learning it without any programming experience. Knowing basic programming essentials such as declaring variables, forming loops, creating arrays, creating functions, etc. has proven useful when transitioning to another language. In fact, it seems as if Javascript is Java on steroids; in Java, you had to specify the type of each variable and the return type of a function while in Javascript, you use let, const, var to declare variables and you do not specify the return type when making functions. For now, I see Javascript as more convient compared to Java because the latter seems more strict about variables and syntax.
+## Java on Steroids
+
+Having done in Java for the past two semesters, the transition to another language, namely JavaScript, has been a lot smoother than expected as opposed to learning it without any programming experience. Knowing basic programming essentials such as declaring variables, forming loops, creating arrays, creating functions, etc. has proven useful when transitioning to another language. In fact, it seems as if JavaScript is Java on steroids; in Java, you had to specify the type of each variable and the return type of a function while in JavaScript, you use let, const, var to declare variables and you do not specify the return type when making functions. For now, I see JavaScript as more convient compared to Java because the latter seems more strict about variables and syntax.
+
+### Access Levels
+
+In Java, you can specify the access level of your code: public, protected, private. Each can affect how your classes interact with each other; for instance, when a function is modified as private, only the class containing such function is able to call it. In JavaScript, however, you do not use such modifiers. For instance when making a function:
+
+```javascript
+function myFunction {
+  //my code
+}
+```
 
 <img class="ui small left floated image" src="../images/p90x.jpg">
 
