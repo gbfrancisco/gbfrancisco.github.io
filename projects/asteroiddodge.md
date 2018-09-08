@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/asteroidpiece.png
 title: AsteroidDodge
-permalink: projects/project-3
+permalink: projects/asteroiddodge
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
@@ -20,4 +20,4 @@ In this project, we were given the opportunity to choose our own group or partne
 
 This project is the first time I collaborated with someone, albeit I fully knew that someone since we went to the same school. Nevertheless, I learned the importance of teamwork, and to systematically divide tasks between each other. Of course, there were frustrations during the process, but this project made me realize that I will someday collaborate with many people with varying personalities and quirks. This time, though, I am lucky enough to be partnered with someone I knew. This is also an important project for me because we were not given any guidelines, and it was up to us to determine the result of our project using our knowledge that we accumulated during the whole semester. This shows that everytime we learn something, we need to permanently instill them in our minds, and not just treat them as something to be memorized, but rather deeply understood.
 
-Source: <a href="https://drive.google.com/open?id=1cXICXuEf6EmYzJQvElc4VHSY60YYAOwt"><i class="large github icon"></i>AsteroidDodge</a>
+Source: <a href="https://github.com/gbfrancisco/AsteroidDodge"><i class="large github icon"></i>AsteroidDodge</a>
