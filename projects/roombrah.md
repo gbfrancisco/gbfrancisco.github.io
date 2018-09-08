@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/1up.png
 title: Roombrah
-permalink: projects/project-2
+permalink: projects/roombrah
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
@@ -19,5 +19,5 @@ This is my second project in ICS 111. We had to make a roombah (the autonomous r
 
 In this project, we the guidelines given to us were significantly more vague than the first project (taro planting simulator), and thus I had a more difficult time implemeting the code. Often, I would get stuck, and when I seemingly make progress, the program then decides to throw countless exceptions. It made me open my mind about the difficulty of this course—I will get stuck at some point when coding, and it will be a challenge to get yourself back on track. Because of this project, I learned patience and perseverance in the midst of struggle and frustration.
 
-Source: <a href="https://drive.google.com/open?id=1ht5Qh5DjJSdU3I6KSEye3UuzoBhOoJZj"><i class="large github icon"></i>Roombrah</a>
+Source: <a href="https://github.com/gbfrancisco/Roombrah"><i class="large github icon"></i>Roombrah</a>
 
