@@ -28,7 +28,7 @@ As stated earlier, coding standards are essential because they help others under
 
 ### The Bad
 
-<img class="ui tiny right floated image" src="../images/thebad.JPG">
+<img class="ui tiny left floated image" src="../images/thebad.JPG">
 
 Coding Standards are very important; however, beginners who never really cared about formatting their codes will probably take time to get used to the coding standards. By this, I mean they could write codes without any sort assistance like Checkstyle or ESlint. Whenever they write codes, they should instinctively follow coding standards without even thinking about them. Also, you need to be somewhat flexible when transitioning from one language to another because that would mean you need to readjust yourself to another coding standard. Overall, I believe that coders should follow coding standards not because they think they have to follow the rules, but because they have to integrate them into their programming habits.
 
