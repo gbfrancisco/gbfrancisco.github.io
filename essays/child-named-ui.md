@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Unleashing the Sherlock within us.
+title: A Child Named UI
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-30
+date: 2018-10-04
 labels:
   - Computer Science
   - Deep Work
