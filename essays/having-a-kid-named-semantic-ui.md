@@ -12,10 +12,8 @@ labels:
 
 ## Imagine you just had a new born baby.
 
-As you hold her in your arms, you cannot help but ponder what makes her so precious. You look at her beautiful, glittering eyes and realize that they not only provide you that feeling of warmth and comfort, but they also give you a sense of hope—a mysterious hope that this baby will turn the vapid to creative, the ordinary to something special. As parent, you will do everything in your power to nurture it and lead it to a bright and exciting future. You name this baby, ***Semantic UI***.
+As you hold her in your arms, you cannot help but ponder what makes her so precious. You look at her beautiful, glittering eyes and realize that they not only provide you that feeling of warmth and comfort, but they also give you a sense of hope—a mysterious hope that this baby will turn the vapid to creative, the ordinary to something special. As parent, you will do everything in your power to nurture this baby and lead her to a bright and exciting future. You name this child, ***Semantic UI***.
 
-## Raising your child is not as easy as you thought.
+## Raising Semantic is not as easy as you thought.
 
-```html
-<div> testing </div>
-```
+As Semantic grows up, you learn more about her characteristics; you categorize them as **Elements, Collections, Views, and Behaviors**. Within these categories are subcategories such as **container, image, grid, menu, etc.** which are also filled with even more subcategories like **types, groups. variations, etc.** Little did you know that Semantic possessed so many qualities, so many that it will definitely take some time and dedication to remember them all. However, the point is that these said qualities could potentially erase your boredom and liven up your world because after all, who does not want live a life with a responsive *framework*. So, you are motivated enough to understand more about each of Semantic's trait, as every parent should do.
