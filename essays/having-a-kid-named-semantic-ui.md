@@ -49,6 +49,6 @@ Semantic most likely commits all these rebellious actions in order to show your 
 
 ## Back to reality,
 
-<img class="ui small left floated image" src="../images/semanticui.PNG">
+<img class="ui small left floated image" src="../images/semanticui.png">
 
 Semantic UI, as a framework, could be compared to a spoiled child in which if the user is inexperienced, it will disobey your intentions (or act in a different way). Hence, such UI requires practice and experiments to fully grasp how each of its numerous properties work. If one succeeds in doing so, then only your creativity can possibly hold you back.
