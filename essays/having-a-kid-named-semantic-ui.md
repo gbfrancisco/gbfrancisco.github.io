@@ -12,6 +12,8 @@ labels:
 
 ## Imagine you just had a new born baby.
 
+<img class="ui small left floated image" src="../images/MindPalaceV2.jpg">
+
 As you hold her in your arms, you cannot help but ponder what makes her so precious. You look at her beautiful, glittering eyes and realize that they not only provide you that feeling of warmth and comfort, but they also give you a sense of hope—a mysterious hope that this baby will turn the vapid to creative, the ordinary to something special. As parent, you will do everything in your power to nurture this baby and lead her to a bright and exciting future. You name this child, ***Semantic UI***.
 
 ## Raising Semantic is not as easy as you thought.
