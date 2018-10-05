@@ -25,5 +25,5 @@ After some time, Semantic has become more responsive. You now have the confidenc
 ```html
 <div class="ui borderless menu>
   <img class="ui image item" scr="https://www.mcdonalds.com/content/dam/usa/logo/m_logo.png">
-</div>
+                                                                                            </div>
 ```
