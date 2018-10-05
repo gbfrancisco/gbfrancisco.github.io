@@ -12,4 +12,10 @@ labels:
 
 ## Imagine you just had a new born baby.
 
-As you hold her in your arms, you cannot help but ponder what makes her so precious. You look at her beautiful, glittering eyes and realize that they not only provide you that feeling of warmth and comfort, but they also give you a sense of hope—a mysterious hope that this baby will turn the vapid to creative, the ordinary to something special. As parent, you will do everything in your power to nurture it and lead it to a bright and exciting future. You name this baby, *Semantic UI*.
+As you hold her in your arms, you cannot help but ponder what makes her so precious. You look at her beautiful, glittering eyes and realize that they not only provide you that feeling of warmth and comfort, but they also give you a sense of hope—a mysterious hope that this baby will turn the vapid to creative, the ordinary to something special. As parent, you will do everything in your power to nurture it and lead it to a bright and exciting future. You name this baby, ***Semantic UI***.
+
+## Raising your child is not as easy as you thought.
+
+```html
+<div> testing </div>
+```
