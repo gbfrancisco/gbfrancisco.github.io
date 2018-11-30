@@ -12,7 +12,7 @@ labels:
 
 ## Cooking that Yummy Scrambled Eggs
 
-<img class="ui medium center image" src="../images/gordoneggs.PNG">
+<img class="ui medium right floated image" src="../images/gordoneggs.PNG">
 
 Ever watched that video where Gordon Ramsay demonstrates how to cook the "perfect scrabled eggs"? Did you ever attempt to emulate his recipe only to end up in a kitchen disaster (or *nightmare*)? If you did, then welcome to the failure club, as I managed to taste defeat in my atrocious attempt on a dish that theoretically should be easy to recreate. However, after failing to follow the superstar chef's recipe, that did not deter me from learning how to cook scrambled eggs from other people. One thing I noticed, though, is that most of their scrambled egg recipes have a notable similarity—they all use butter, salt, and pepper!
 
