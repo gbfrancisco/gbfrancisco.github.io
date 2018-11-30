@@ -20,5 +20,40 @@ Of course it is. However, that is not the realization that occurred to me. **You
 
 # How Do I Cook My Scrambled Egg?
 
+I do not have any skills in the art of cooking; even if I follow the basic recipe, I still would inadvertently find ways to fail. I can, however, describe instead the design patterns I have used in my own code. In ICS 211, I picked up a some design patterns. A very notable example would be the factorial problem where we implement a function that gives the factorial of a given input. Obviously at first, I did not have any gameplan as to how to tackle this problem so my inexperienced mind told me to use *for loops*.
 
+```java
+public static int forFactorial(int number) {
+  if (number == 0) {
+    return 1;
+  }
+  int temp = number;
+  for (int i = 1; i <= number - 1; i++) {
+    temp = temp * (number - i);
+  }
+  return temp;
+}
+```
+This was the *scrambled eggs* that resulted from not following any recipe. By the looks of it, the code functions fine, but the *for loop* could possibly perplex novice people who analyze this code. As I learned about recursion, I implemented it into my recipe:
 
+```java
+public static int recFactorial(int number) {
+  if (number == 0) {
+    return 1;
+  } else {
+    return number * recFactorial(number - 1);
+  }
+}
+```
+This code is much neater compared to the former function as it only uses one if else statement rather than incorporating loops in it. In fact, if the person analyzing this code learns about recursion, then this code should be fairly easy to understand. You do not even have to be the Gordon Ramsay of programming to appreciate this *scrambled egg*.
+
+Right now, as an ICS 314 student, we are working with a new type of scrambled egg—one where the egg's structure is divided into different *directories*. Here is one example of an important snippet of the directories:
+
+(Taken from [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) GitHub page)
+```
+ui/
+  components/  # Contains page elements, some of which could appear on multiple pages. 
+  layouts/     # Contains top-level layout (<App> component).
+  pages/       # Contains components for each page. 
+```
+In developing a web application, this strategy breaks down the whole project into small relative pieces that allow the developer to focus on different specific tasks. For instance, in the components directory, the developer could implement a navigation bar (or navbar for short), and because the navbar is treated as a separate component, it can be used over and over again for other parts in the project; the navbar could appear on every single page on the web app. Now, imagine if one tries to develop a web app from scratch without using any sort of template or guidelines. Without a doubt, it is possible but such disregard to a more systematic approach such as design patterns would inevitably result into 
