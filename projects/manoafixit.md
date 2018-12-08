@@ -13,7 +13,12 @@ labels:
   - Software Engineering
 summary: A meteor application that helps UH Manoa students report issues around campus very efficiently.
 ---
+
 <img class="ui medium center floated rounded image" src="../images/manoafixit/m3landing.PNG">
+
+## Overview
+
+The ManoaFixIt Meteor application, our final project for ICS 311 (Software Engineering I), allows all University of Hawaii at Manoa students to easily report any issues they find around campus without having to go through the trouble of contacting the authorities.
 
 In this project, we were given the opportunity to choose our own group or partner. We were to create any type of program based on how much we have learned throughout the whole semester. After countless deliberations, my partner and I agreed to create a game based on the popular mobile app Flappy Bird, but this time the character could move freely and there are more obstacles to dodge (in this case, the asteroids). Again, with the help of EZ Graphics, we were able to use pre-implemented functions that would create the movements of the objectj (the main character and the asteroids).
 
