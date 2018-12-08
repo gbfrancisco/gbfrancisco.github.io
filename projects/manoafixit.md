@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/manoafixit/mfiwrench2.png
+image: images/manoafixit/mfiwrench2.PNG
 title: ManoaFixIt
 permalink: projects/manoafixit
 # All dates must be YYYY-MM-DD format!
