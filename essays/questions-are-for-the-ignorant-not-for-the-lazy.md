@@ -31,13 +31,13 @@ According to Raymond,
 My personal interpretation on this key point is that you should not ask about something when you have not researched or read about it. It often helps to try to understand the concepts that relate to the question beforehand because there will be a chance that the answer will be as incomprehensible as the problem being inquired about. This can also apply to writing codes. Those who ask must attempt to solve the problem until they are completely out of options (and they should show their attmpts too). [An example of a good question would be this](https://stackoverflow.com/questions/363681/how-do-i-generate-random-integers-within-a-specific-range-in-java#):
 
 <p align="center">
-  <img width="728" height="480" src="../images/goodquestion.PNG">
+  <img width="728" height="480" src="../images/questions/goodquestion.PNG">
 </p>
 
 This question would then be granted with a very detailed answer.
 
 <p align="center">
-  <img width="589" height="740" src="../images/goodanswer.PNG">
+  <img width="589" height="740" src="../images/questions/goodanswer.PNG">
 </p>
 
 Not everyone is expected to find solutions by themselves, and people out there are willing to help if the person who asked the question showed effort in solving the problem first. I believe that cooperation and teamwork allow for better learning experience and it is never wrong to rely on others for help. Although, if that person tries to obtain answers the *easy way*, it will only display laziness and arrogance, and most people will have minimal tolerance for lackluster effort.
@@ -49,13 +49,13 @@ On the other hand, people should include more details when forming questions. Th
 *The original unedited post did not include the person's code so I had to exclude it.*
 
 <p align="center">
-  <img width="592" height="305" src="../images/badquestion.PNG">
+  <img width="592" height="305" src="../images/questions/badquestion.PNG">
 </p>
 
 Because of the post's lack of information and precision, it got downvoted and not surprisingly, it pissed off some people.
 
 <p align="center">
-  <img width="597" height="626" src="../images/badanswer.PNG">
+  <img width="597" height="626" src="../images/questions/badanswer.PNG">
 </p>
 
 ## Do your research first.
@@ -63,7 +63,7 @@ Because of the post's lack of information and precision, it got downvoted and no
 Last but not the least, refrain from asking a question that could be searched on Google or other reliable sites. Raymond explicitly says that it is necessary to look for answers first before asking. Chances are, a question has already been asked innumerable times to the point where one could Google for the answer and find countless results. Furthermore, asking a question that has been asked so many times often leads to vague and unserious answers. [Here's an example](https://stackoverflow.com/questions/245062/whats-the-difference-between-javascript-and-java):
 
 <p align="center">
-  <img width="592" height="630" src="../images/terriblequestion.PNG">
+  <img width="592" height="630" src="../images/questions/terriblequestion.PNG">
 </p>
 
 As a result, the question is provided with no details at all regarding what specific concept is different between JavaScript and Java. At least if the person asking the question specified on what parts do the two languages differ such as function implementation, object creation, how variables are declared, etc. then people might have answered in a more informative and concise manner.
