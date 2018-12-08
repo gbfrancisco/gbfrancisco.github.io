@@ -14,7 +14,7 @@ labels:
 summary: A meteor application that helps UH Manoa students report issues around campus very efficiently.
 ---
 
-<img class="ui medium center rounded image" src="../images/manoafixit/m3landing.PNG">
+<img class="ui large centered image" src="../images/manoafixit/m3landing.PNG">
 <p align="center"> <i>App homepage</i> <p>
 
 ## Overview
