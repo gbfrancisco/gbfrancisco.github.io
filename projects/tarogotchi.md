@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/tarovector.png
+image: images/taro/tarovector.png
 title: TaroGotchi
 permalink: projects/tarogotchi
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ labels:
 summary: The very first program that I made in Introduction to ICS.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/taro.png">
+<img class="ui medium right floated rounded image" src="../images/taro/taro.png">
 
 The TaroGotchi is the very first ICS project I have done in ICS 111. It acts as a simulator where there is a plant and two buttons: fertilize and water. Each has its own respective functions; for instance, pressing the fertilize button would increase the plant's health enabling it to survive and leave room for growth while pressing the water button would grow the plant while decreasing the amount of fertilizer it has. The goal of the game is to sufficiently fertilize and water the taro plant until it reaches a certain height. Although, if one over-fertilizes or over-waters the plant, its health would start to decline and once it dies, the game is over.
 
