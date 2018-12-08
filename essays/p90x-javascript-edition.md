@@ -10,7 +10,7 @@ labels:
   - WODs
 ---
 
-<img class="ui tiny left floated image" src="../images/javascript.jpg">
+<img class="ui tiny left floated image" src="../images/p90x/javascript.jpg">
 
 ## Java on Steroids
 
@@ -54,9 +54,9 @@ Overall, JavaScript somewhat feels less constricted compared to Java. One might 
 
 ## Workout of the Day
 
-<img class="ui small left floated image" src="../images/p90x.jpg">
+<img class="ui small left floated image" src="../images/p90x/p90x.jpg">
 
 As for the workout of the day (WOD), they seem to push the students to find solutions in faster and more efficient ways. The timed practice WODs are essential tools not only to practice for class assessments but also to improve our critical thinking and problem-solving skills. It almost feels like I am on the P90X workout program, and it will probably be a tough and gruelling schedule that could potentially yield great results, depending on my concentration and determination to improve. Overall, the teaching style is meant to get students out of the comfort zone, and I do agree that this is a fundamental aspect of deliberate practice. Nevertheless, it is definitely intersting to see my results as I challenge myself through these WODs. 
 
-<img class="ui small left floated image" src="../images/finish.jpg">
+<img class="ui small left floated image" src="../images/p90x/finish.jpg">
 
