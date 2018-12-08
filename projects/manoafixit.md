@@ -15,7 +15,7 @@ summary: A meteor application that helps UH Manoa students report issues around 
 ---
 
 <img class="ui large centered image" src="../images/manoafixit/m3landing.PNG">
-<p align="center"> <i>App homepage</i> <p>
+<p align="center"> <i>App homepage (desktop)</i> <p>
 
 <h2> Overview </h2>
 
