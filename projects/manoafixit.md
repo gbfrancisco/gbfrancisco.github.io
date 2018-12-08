@@ -17,7 +17,7 @@ summary: A meteor application that helps UH Manoa students report issues around 
 <img class="ui large centered image" src="../images/manoafixit/m3landing.PNG">
 <p align="center"> <i>App homepage</i> <p>
 
-## Overview
+<h2> Overview </h2>
 
 The ManoaFixIt Meteor application, our final project for ICS 311 (Software Engineering I), allows all University of Hawaii at Manoa students to easily report any issues they find around campus without having to go through the trouble of contacting the authorities.
 
