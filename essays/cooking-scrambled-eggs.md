@@ -12,7 +12,7 @@ labels:
 
 ## Cooking that Yummy Scrambled Eggs
 
-<img class="ui medium right floated image" src="../images/gordoneggs.PNG">
+<img class="ui medium right floated image" src="../images/eggs/gordoneggs.PNG">
 
 Ever watched that video where Gordon Ramsay demonstrates how to cook the "perfect scrabled eggs"? Did you ever attempt to emulate his recipe only to end up in a kitchen disaster (or *nightmare*)? If you did, then welcome to the failure club, as I managed to taste defeat in my atrocious attempt on a dish that theoretically should be easy to recreate. However, after failing to follow the superstar chef's recipe, that did not deter me from learning how to cook scrambled eggs from other people. One thing I noticed, though, is that most of their scrambled egg recipes have a notable similarity—they all use butter, salt, and pepper!
 
@@ -23,7 +23,7 @@ Of course it is. However, that is not the realization that occurred to me. **You
 ## How Do I Cook My Scrambled Egg?
 
 <p align="center">
-  <img class="ui medium center image" src="../images/designpattern.PNG">
+  <img class="ui medium center image" src="../images/eggs/designpattern.PNG">
 </p>
 
 I do not have any skills in the art of cooking; even if I follow the basic recipe, I still would inadvertently find ways to fail. I can, however, describe instead the design patterns I have used in my own code. In ICS 211, I picked up a some design patterns. A very notable example would be the factorial problem where we implement a function that gives the factorial of a given input. Obviously at first, I did not have any gameplan as to how to tackle this problem so my inexperienced mind told me to use *for loops*.
@@ -69,5 +69,5 @@ In developing a web application, this strategy breaks down the whole project int
 My ICS 111 projects would have been so much better to look at, had I learned about proper design patterns. In fact, I could have finished them efficiently in a timely manner. But alas, that was in the past where I was a just a fledging trying to learn the ropes. Now that I have gained a lot of experience to proceed to a higher level of understanding in this field of Computer Science, it is imperative at this stage to incorporate systematic ways to solve the various problems that arise in this discipline. In other words, rather than aimlessly attacking the problem, one should follow the recipe to make that fluffy, yummy scrambled eggs.
 
 <p align="center">
-  <img class="ui medium center image" src="../images/fluffyeggs.PNG">
+  <img class="ui medium center image" src="../images/eggs/fluffyeggs.PNG">
 </p>
