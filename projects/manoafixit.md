@@ -13,7 +13,7 @@ labels:
   - Software Engineering
 summary: A meteor application that helps UH Manoa students report issues around campus very efficiently.
 ---
-<img class="ui medium center floated rounded image" src="../images/manoafixit/m3landing.png">
+<img class="ui medium center floated rounded image" src="../images/manoafixit/m3landing.PNG">
 
 In this project, we were given the opportunity to choose our own group or partner. We were to create any type of program based on how much we have learned throughout the whole semester. After countless deliberations, my partner and I agreed to create a game based on the popular mobile app Flappy Bird, but this time the character could move freely and there are more obstacles to dodge (in this case, the asteroids). Again, with the help of EZ Graphics, we were able to use pre-implemented functions that would create the movements of the objectj (the main character and the asteroids).
 
