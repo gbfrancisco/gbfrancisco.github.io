@@ -36,7 +36,7 @@ Furthermore, the app displays the location of the issues on a map. As you submit
 
 What makes this project special is that it lives up to its main objective—to actually make reporting issues REALLY EFFICIENT. In other words, this app would be incomplete if it only works on desktop, both in aesthetics and functionality. As a result, we strived hard to make it function properly as well as appear very pleasing to look at on mobile devices.
 
-<img class="ui big centered image" src="../images/manoafixit/mobile/m3feedmobile.PNG">
+<img class="ui medium centered image" src="../images/manoafixit/mobile/m3feedmobile.PNG">
 <p align="center"> <i>App Feed (mobile)</i> </p>
 
 ## My Contributions
