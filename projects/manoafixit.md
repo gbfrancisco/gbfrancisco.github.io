@@ -14,12 +14,25 @@ labels:
 summary: A meteor application that helps UH Manoa students report issues around campus very efficiently.
 ---
 
-<img class="ui large centered image" src="../images/manoafixit/m3landing.PNG">
-<p align="center"> <i>App homepage (desktop)</i> </p>
+<img class="ui big centered image" src="../images/manoafixit/m3landing.PNG">
+<p align="center"> <i>App Homepage (desktop)</i> </p>
 
 ## Overview
 
-The ManoaFixIt Meteor application, our final project for ICS 311 (Software Engineering I), allows all University of Hawaii at Manoa students to easily report any issues they find around campus without having to go through the trouble of contacting the authorities.
+The ManoaFixIt Meteor application, our final project for ICS 311 (Software Engineering I), aims to aid all University of Hawaii at Manoa students to easily report any issues they find around campus such as damaged equipments or facilities without having to go through the trouble of contacting the authorities. With only few mouse clicks and keyboard strokes (or taps on your phone), this app enables users to electronically submit their issues which they can add descriptions and designate tags.
+
+<img class="ui big centered image" src="../images/manoafixit/m3submit.PNG">
+<p align="center"> <i>Submit Form (desktop)</i> </p>
+
+After submitting an issue, the app adds it on a feed, displaying all other issues reported by other students. In other words, this app increases awareness to every existing problem on campus, thus making it faster to fix or solve them.
+
+<img class="ui big centered image" src="../images/manoafixit/m3feed.PNG">
+<p align="center"> <i>App Feed (desktop)</i> </p>
+
+Furthermore, the app displays the location of the issues on a map. As you submit an issue, the app gathers the location of the user as the report was made and places a marker on the map so people else could see it for themselves.
+
+<img class="ui big centered image" src="../images/manoafixit/m3map.PNG">
+<p align="center"> <i>Map Page (desktop)</i> </p>
 
 In this project, we were given the opportunity to choose our own group or partner. We were to create any type of program based on how much we have learned throughout the whole semester. After countless deliberations, my partner and I agreed to create a game based on the popular mobile app Flappy Bird, but this time the character could move freely and there are more obstacles to dodge (in this case, the asteroids). Again, with the help of EZ Graphics, we were able to use pre-implemented functions that would create the movements of the objectj (the main character and the asteroids).
 
