@@ -12,7 +12,7 @@ labels:
 
 ## In the Mind of a High Functioning Sociopath
 
-<img class="ui small left floated image" src="../images/MindPalaceV2.jpg">
+<img class="ui small left floated image" src="../images/sherlock/MindPalaceV2.jpg">
 
 Sherlock Holmes never backed down from challenges; he thrived from them. No matter how difficult the case is, his unwavering passion and intense focus enables him to see things beyond the normal human eye. At a single glance, he could formulate countless deductions, and within few moments he could narrow them down to a single conclusion. One could aspire to acquire his boundless intelligence (and sarcasm).
 
@@ -20,11 +20,11 @@ But why Sherlock Holmes? What makes him so special that I am alluding to him in 
 
 ## On Deep Work
 
-<img class="ui medium right floated image" src="../images/Newport.jpg">
+<img class="ui medium right floated image" src="../images/sherlock/Newport.jpg">
 
 Dr. Cal Newport, the author of the book *Deep Work*, emphatically claims that deep work is the state of intense, unhindered concentration that people undergo when tackling on a given task. It is the type of focus that requires absolute attention to your work, avoiding all forms of distractions (including music). Such complete involvement in your work allows you to create less mistakes, learn concepts faster and reduce stress despite working intensely on a short burst of time.
 
-<img class="ui medium right floated image" src="../images/Focus.jpg">
+<img class="ui medium right floated image" src="../images/sherlock/Focus.jpg">
 
 ## How to Perform Deep Work?
 
