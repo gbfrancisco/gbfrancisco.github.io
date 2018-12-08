@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/1up.png
+image: images/roombrah/1up.png
 title: Roombrah
 permalink: projects/roombrah
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: A roomba simulator demonstrating the use of 2D arrays and file reading.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/roombrah.png">
+<img class="ui medium right floated rounded image" src="../images/roombrah/roombrah.png">
 
 This is my second project in ICS 111. We had to make a roombah (the autonomous robotic vacuum cleaners) simulator. This time, we had learned about 2D arrays and file reading in class. The code primarily reads a text file composed of characters that represent either a block or a mushroom; the program uses 2D arrays to check each character. Then, the roombah will bounce off the blocks and consume the mushrooms, and as it goes through the whole map, it leaves a trail. The game then ends as the roombah collects all mushrooms.
 
