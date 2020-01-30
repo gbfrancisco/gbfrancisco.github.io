@@ -55,17 +55,29 @@
       "level": "",
       "keywords": [
         "Java",
-        "Javascript (In progress)"
+        "Javascript",
+        "C",
+        "C++"
       ]
     },
     {
       "name": "Video Games",
       "level": "",
       "keywords": [
-        "League of Legends",
+        "MOBA",
         "RPG",
+        "MMORPG",
         "FPS",
         "Single-player games"
+      ]
+    },
+    {
+      "name": "Miscellaneous", 
+      "level": "", 
+      "keywords": [
+        "Computer Networking",
+        "Operating Systems",
+        "Database"
       ]
     }
   ],
