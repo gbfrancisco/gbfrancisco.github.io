@@ -5,13 +5,14 @@ image: images/asteroid/asteroidpiece.png
 title: HACCsgiving
 permalink: projects/haccsgiving
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-30
+date: 2020-11-21
 labels:
-  - Java
-  - ICS 111
-  - EZ Graphics
+  - JavaScript
+  - React Native
+  - Firebase
   - Group Project
-summary: My partner and I created a mini-game where you dodge asteroids and record high scores.
+  - HACC
+summary: ICS 491 mobile development project for HACC 2020
 ---
 
 <img class="ui medium right floated rounded image" src="../images/asteroid/asteroid.png">
