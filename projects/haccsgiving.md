@@ -115,19 +115,30 @@ Each member had to choose their own role to either work on the front-end or back
 
 ## Aftermath
 
-Overall, the HACC was an interesting experience, provided that it was my first time competing in the event. Definitely, there have been some ups and downs, but there are no regrets in taking up this challenge, because I learned some lessons along the way.
+Overall, the HACC event was an interesting experience, provided that it was my first time competing in the event. Definitely, there have been some ups and downs, but there are no regrets in taking up this challenge, because I learned some lessons along the way.
 
 #### More Love for Front-End
 
 Having done back-end work in my previous project for ICS 491, it was refreshing to focus more heavily on the UI of Helping Hands. Not only did I do so to adhere to the "user-friendly" requirement of the challenge, but it also meant as a way to let all my creative juices flow. One might say the back-end is the meat of an app, but I'd disagree. Both front-end and back-end should be held equally as important. It's arguable, but I firmly believe that if you take out the front-end, no one is going to care about the app. Of course, people care about the functionality which is provided by the back-end, but if the app is too complex, or poorly designed, consumers will most likely to switch to another app.
 
 #### Reaction to React-Native
+
 That said, I believe React-Native is a love and hate relationship when it comes to front-end. Sure, the native components are slick and look great in mobile (in my opinion). Also I love messing around with `flex` in a mobile platform compared to mindlessly performing trial-and-error with css in web app. All of these are good, but it's usually the case that you have to go beyond these components. Thus, you will inevitably have to rely on third party libraries such as React Navigation, React Native Elements, React Native Paper, or those you find on the `npmjs` site. This is risky at times because you need to make sure they are up to date, and they must also be compatible with the other libraries that you have installed. 
 
-####
+#### Plan to plan
+
+As mentioned earlier, planning was not done properly for our team. I believe coming up with ideas is one of the biggest hurdles you have to get past in order to jump-start development. Thus, I would say we could have done better in terms of planning. One way to do it is by brainstorming in a **voice call**. I find it ineffective to communicate ideas just through text, and hearing your teammates' voices seems to have more impact and agency. Unfortunately, as we all had vastly different and conflicting schedules, it was hard to find the perfect time where everyone could be present. Also, we were not able to utilize methodologies we have learned in ICS 414 Software Engineering II like Agile. Had we done this in a more organized fashion, then perhaps we could have incorporated more features.
 
 #### What’s in Store for the Future
+
+This has been my first time developing a mobile application, and quite frankly, I enjoyed it. Perhaps in the future, I will shift the application from React-Native to Flutter. Most people who have developed mobile apps that I have talked to kept gushing about Flutter, and I am interested in learning about it more. Apparently, most of the articles I have read online predict that Flutter will overtake React-Native in the near future. Therefore, it's not a bad idea to acquire another skillset in case Flutter does indeed becomes the next big thing.
+
+Another potential addition would be machine learning. I have never done it, ever. Although, it does seem interesting to add to my skills. After joining the Google breakout room during the HACC event, I learned about how Firebase has a service that provides machine learning to your app. I have not personally checked the cost for it, but I would be willing to be that the investment will be worth it should I continue to pursue this path.
+
+All in all, attending HACC and enrolling in ICS 491 allowed me to dip my toes in the world of Software Engineering. The struggles we have faced such as dealing with deadlines, pulling our hairs out due to bugs we cannot seem to fix in an instant, the amount of time spent trying to setup the dev environment instead of actually coding, the requirements given by the clients being vague or misunderstood by the developers—all of these are bound to happen in a real job. Having to experience these allows me to be aware and be more prepared in the future.
 
 ## Links
 **[Helping Hands Devpost](https://devpost.com/software/helping-hands-o96srp)**<br>
 **[HACCsgiving GitHub](https://github.com/HACC2020/HACCsgiving)**
+
+####
