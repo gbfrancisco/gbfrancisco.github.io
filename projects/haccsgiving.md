@@ -95,6 +95,9 @@ The all services screen essentially shows all services available in the app.
 
 <p style="text-align: center">
 Testing
+<video controls>
+  <source src="../images/holdinghands/videos/demo.mp4">
+</video>
 </p>
 
 
