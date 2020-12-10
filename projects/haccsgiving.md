@@ -24,15 +24,29 @@ The Hawaii Annual Code Challenge (or HACC) is an event taking place every fall w
 
 ## And so it begins
 
-### The team
+#### The team
 
 Our team, called HACCsgiving, comrpised of 4 students currently enrolled in ICS 491: **[Me](https://github.com/gbfrancisco), [Calvan Liang](https://github.com/calvan-liang), [Micah Kim](https://github.com/kimmicah), [Kegan Flagg](https://github.com/LukewarmCoffee)** and an UH ICS graduate **[Christopher Na](https://github.com/chrisjna)**.
 
-### The challenge
+#### The challenge
 
 The event presented many challenges such as gamification of crowdsource indexing, COVID-19 chatbot, campus occupancy trends visualization and many more. The challenge which our team agreed to tackle was the **[Connections: Hawai‘i State Resource Directory](https://hacc.hawaii.gov/wp-content/uploads/2020/10/Challenge_2020_ResourceDirectory.pdf)** for the First Lady Dawn Amano-Ige. This challenge aims to provide an electronic repository of services, programs, resources as well as benefits for those in need. It should serve as a one-stop-shop directory of services which users can easily get referred to and gain access.
 
-## A hand that helps
+## A hand that helps (User Guide)
+
+#### Landing Screen
+
+The quick brown fox...
+
+#### Splash Screen
+
+The quick brown fox...
+
+#### Search Screen
+
+The quick brown fox...
+
+#### All Services Screen
 
 The quick brown fox...
 
