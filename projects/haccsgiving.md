@@ -66,7 +66,9 @@ The quick brown fox...
 
 #### Service Card
 
+<a href="../images/holdinghands/card.png">
 <img class="ui small centered image" src="../images/holdinghands/card.png">
+</a>
 
 The quick brown fox...
 
