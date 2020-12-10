@@ -91,15 +91,9 @@ Clicking on a service will show a card containing the service's description and 
 
 The all services screen essentially shows all services available in the app.
 
+<a href="../images/holdinghands/videos/demo.mp4">
 #### Video Demo (by Kegan)
-
-<p style="text-align: center">
-Testing
-<video controls>
-  <source src="../images/holdinghands/videos/demo.mp4">
-</video>
-</p>
-
+</a>
 
 ## Work, work, work
 
