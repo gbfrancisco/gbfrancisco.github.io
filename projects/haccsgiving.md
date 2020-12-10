@@ -26,11 +26,13 @@ The Hawaii Annual Code Challenge (or HACC) is an event taking place every fall w
 
 #### The Team
 
-Our team, called HACCsgiving, comrpised of 4 students currently enrolled in ICS 491: **[Me](https://github.com/gbfrancisco), [Calvan Liang](https://github.com/calvan-liang), [Micah Kim](https://github.com/kimmicah), [Kegan Flagg](https://github.com/LukewarmCoffee)** and an UH ICS graduate **[Christopher Na](https://github.com/chrisjna)**.
+Our team, called HACCsgiving, comrpised of 4 students currently enrolled in ICS 491: **[Me](https://github.com/gbfrancisco), [Calvan Liang](https://github.com/calvan-liang), [Micah Kim](https://github.com/kimmicah), [Kegan Flagg](https://github.com/LukewarmCoffee)** and a UH ICS graduate **[Christopher Na](https://github.com/chrisjna)**. Only Chris has done HACC in the past, and his experience has proven to be crucial in letting the team know beforehand what's in store in this hackathon. 
 
 #### The Challenge
 
 The event presented many challenges such as gamification of crowdsource indexing, COVID-19 chatbot, campus occupancy trends visualization and many more. The challenge which our team agreed to tackle was the **[Connections: Hawai‘i State Resource Directory](https://hacc.hawaii.gov/wp-content/uploads/2020/10/Challenge_2020_ResourceDirectory.pdf)** for the First Lady Dawn Amano-Ige. This challenge aims to provide an electronic repository of services, programs, resources as well as benefits for those in need. It should serve as a one-stop-shop directory of services which users can easily get referred to and gain access.
+
+We selected the Hawai‘i State Resource Directory because we thought a mobile application would be the most fitting for a problem like this. After all, the challenge did require user-friendliness, so making it a mobile app will definitely be easier to use and more accessible to people compared to using laptops or desktops to open a web app.
 
 ## A Hand That Helps (User Guide)
 
@@ -89,14 +91,13 @@ Clicking on a service will show a card containing the service's description and 
 <img class="ui small centered image" src="../images/holdinghands/services.png">
 </a>
 
-The all services screen essentially shows all services available in the app.
+This screen essentially shows all services (that are also clickable) available in the app.
 
-<a href="../images/holdinghands/videos/demo.mp4">
-#### Video Demo (by Kegan)
-</a>
+#### <a href="../images/holdinghands/videos/demo.mp4"> Video Demo (by Kegan) </a>
 
 ## Work, work, work
 
+#### Workflow
 The quick brown fox...
 
 ## Aftermath
