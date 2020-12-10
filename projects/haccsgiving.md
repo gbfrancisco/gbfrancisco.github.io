@@ -18,13 +18,13 @@ summary: ICS 491 mobile development project for HACC 2020
 ## Hawaii Annual Code Challenge (HACC)
 
 <img class="ui large centered image" src="../images/holdinghands/hacc.png">
-<p align="center"> <i>HACC Logo</i> </p>
+<p align="center"> <i>Where innovation starts</i> </p>
 
 The Hawaii Annual Code Challenge (or HACC) is an event taking place every fall where the participants can showcase their creativity and technical abilities to develop applications to help solve various problems presented by the local community and state agencies. The participants must form teams and are given a couple or more weeks to design a product which they will have an opportunity to present should they get selected by the technical judges. HACC always had been an in-person event, but due to the COVID pandemic, it was held virtually via Zoom.
 
 ## And so it begins
 
-The quick brown fox...
+The challenge which our team agreed to tackle was the **[Connections: Hawai‘i State Resource Directory](https://hacc.hawaii.gov/wp-content/uploads/2020/10/Challenge_2020_ResourceDirectory.pdf)** for the First Lady Dawn Amano-Ige. This challenge aims to provide an electronic repository of services, programs, resources as well as benefits for those in need. It should serve as a one-stop-shop directory of services which users can easily get referred to and gain access.
 
 ## A hand that helps
 
