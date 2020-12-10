@@ -97,8 +97,11 @@ This screen essentially shows all services (that are also clickable) available i
 
 ## Work, work, work
 
+#### Techs used
+
+For this application, the team decided to use **[react-native](https://reactnative.dev/docs/tutorial)** as the mobile application frameowork and firebase as the back-end service.
+
 #### Workflow
-The quick brown fox...
 
 ## Aftermath
 
