@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/holdinghands/hacc.png
+image: images/holdinghands/hacc_main.png
 title: Helping Hands (HACC 2020)
 permalink: projects/haccsgiving
 # All dates must be YYYY-MM-DD format!
