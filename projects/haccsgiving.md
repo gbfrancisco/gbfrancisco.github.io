@@ -111,9 +111,22 @@ Initially, the planning did not go smoothly; no one had a clear direction or ide
 
 After that, the team started to work on it without utilizing some of the well known software engineering methodologies such as Agile, Waterfall, or Scrum. We decided to just keep adding features to the application as much as we could while staying faithful as much as possible to the mockup workflow.
 
+Each member had to choose their own role to either work on the front-end or back-end. As such, Calvan, Micah, and I decided to do the front-end while Kegan and Chris handled the back-end.
+
 ## Aftermath
 
-The quick brown fox...
+Overall, the HACC was an interesting experience, provided that it was my first time competing in the event. Definitely, there have been some ups and downs, but there are no regrets in taking up this challenge, because I learned some lessons along the way.
+
+#### More Love for Front-End
+
+Having done back-end work in my previous project for ICS 491, it was refreshing to focus more heavily on the UI of Helping Hands. Not only did I do so to adhere to the "user-friendly" requirement of the challenge, but it also meant as a way to let all my creative juices flow. One might say the back-end is the meat of an app, but I'd disagree. Both front-end and back-end should be held equally as important. It's arguable, but I firmly believe that if you take out the front-end, no one is going to care about the app. Of course, people care about the functionality which is provided by the back-end, but if the app is too complex, or poorly designed, consumers will most likely to switch to another app.
+
+#### Reaction to React-Native
+That said, I believe React-Native is a love and hate relationship when it comes to front-end. Sure, the native components are slick and look great in mobile (in my opinion). Also I love messing around with `flex` in a mobile platform compared to mindlessly performing trial-and-error with css in web app. All of these are good, but it's usually the case that you have to go beyond these components. Thus, you will inevitably have to rely on third party libraries such as React Navigation, React Native Elements, React Native Paper, or those you find on the `npmjs` site. This is risky at times because you need to make sure they are up to date, and they must also be compatible with the other libraries that you have installed. 
+
+####
+
+#### What’s in Store for the Future
 
 ## Links
 **[Helping Hands Devpost](https://devpost.com/software/helping-hands-o96srp)**<br>
