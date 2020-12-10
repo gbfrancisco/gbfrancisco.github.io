@@ -104,10 +104,12 @@ We thought of using React-Native because most of us already knew JavaScript, and
 
 #### Workflow
 
-Initially, the planning did not go smoothly; no one had a clear direction or idea on how the app was supposed to go. The development finally jump started when one of our members, Kegan, devised a mockup plan that includes the following app workflow: 
+Initially, the planning did not go smoothly; no one had a clear direction or idea on how the app was supposed to go. The development finally jump started when one of our members, Kegan, devised a mockup plan that includes the following app workflow:
 
-<img class="ui large centered image" src="../images/holdinghands/workflow.png">
+<img class="ui medium centered image" src="../images/holdinghands/workflow.png">
 <p align="center"> <i>App Workflow from Mockup</i> </p>
+
+After that, the team started to work on it without utilizing some of the well known software engineering methodologies such as Agile, Waterfall, or Scrum. We decided to just keep adding features to the application as much as we could while staying faithful as much as possible to the mockup workflow.
 
 ## Aftermath
 
