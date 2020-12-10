@@ -99,9 +99,12 @@ This screen essentially shows all services (that are also clickable) available i
 
 #### Techs used
 
-For this application, the team decided to use **[react-native](https://reactnative.dev/docs/tutorial)** as the mobile application frameowork and firebase as the back-end service.
+For this application, the team decided to use **[React-Native](https://reactnative.dev/docs/tutorial)** as the mobile application framework and firebase as the back-end service.
+We thought of using React-Native because most of us already knew JavaScript, and have used React.js in our past ICS classes. We figured it would be best to stick with what we are familiar with instead of rushing ourselves to learn development kits like Flutter and languages like Dart. On the other hand, we stuck with Firebase because it is one of the more popular mobile app development back-end services. It provided us Firebase Auth for the authentication and Firebase Firestore for the database.
 
 #### Workflow
+
+Initially, the planning did not go smoothly. No one had a clear direction or idea on how the app was supposed to go.
 
 ## Aftermath
 
