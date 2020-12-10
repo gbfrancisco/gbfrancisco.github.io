@@ -73,7 +73,7 @@ This is the main page of the application. It has a tab navigation which can redi
 <img class="ui small centered image" src="../images/holdinghands/link.gif">
 </a>
 
-The quick brown fox...
+The search screen allows the user to search for services based on words related to such services.
 
 #### Service Card
 
@@ -81,7 +81,7 @@ The quick brown fox...
 <img class="ui small centered image" src="../images/holdinghands/card.png">
 </a>
 
-The quick brown fox...
+Clicking on a service will show a card containing the service's description and allows the user to redirect to the service's website. 
 
 #### All Services Screen
 
@@ -89,9 +89,14 @@ The quick brown fox...
 <img class="ui small centered image" src="../images/holdinghands/services.png">
 </a>
 
-The quick brown fox...
+The all services screen essentially shows all services available in the app.
 
 #### Video Demo (by Kegan)
+
+<p style="text-align: center">
+Testing
+</p>
+
 
 ## Work, work, work
 
