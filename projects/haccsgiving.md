@@ -36,43 +36,43 @@ The event presented many challenges such as gamification of crowdsource indexing
 
 #### Landing Screen
 
-<img class="ui medium centered image" src="../images/holdinghands/landing.png">
+<img class="ui small centered image" src="../images/holdinghands/landing.png">
 
 When you first run the app, this is the creen that appears first.
 
 #### Question Screen
 
-<img class="ui medium centered image" src="../images/holdinghands/question.png">
+<img class="ui small centered image" src="../images/holdinghands/question.png">
 
 The screen that appears after clicking the "Get Started" button from the landing screen. If "No", then the user will be redirected straight to the Splash Screen. If "Yes" otherwise, then the user will be redirected to the Login Screen.
 
 #### Login Screen
 
-<img class="ui medium centered image" src="../images/holdinghands/login.png">
+<img class="ui small centered image" src="../images/holdinghands/login.png">
 
 This is a standard login screen for state employees.
 
 #### Splash Screen
 
-<img class="ui medium centered image" src="../images/holdinghands/splash.png">
+<img class="ui small centered image" src="../images/holdinghands/splash.png">
 
 This is the main page of the application. It has a tab navigation which can redirect the user to other screens such as the Search and All Services screen.
 
 #### Search Screen
 
-<img class="ui medium centered image" src="../images/holdinghands/link.gif">
+<img class="ui small centered image" src="../images/holdinghands/link.gif">
 
 The quick brown fox...
 
 #### Service Card
 
-<img class="ui medium centered image" src="../images/holdinghands/card.png">
+<img class="ui small centered image" src="../images/holdinghands/card.png">
 
 The quick brown fox...
 
 #### All Services Screen
 
-<img class="ui medium centered image" src="../images/holdinghands/services.png">
+<img class="ui small centered image" src="../images/holdinghands/services.png">
 
 The quick brown fox...
 
