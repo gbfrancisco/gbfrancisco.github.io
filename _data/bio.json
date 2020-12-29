@@ -29,7 +29,17 @@
   },
   "interests": [
     {
-      "name": "Software Development",
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Mobile Development",
       "keywords": [
       ]
     },
@@ -42,11 +52,6 @@
       "name": "Cybersecurity",
       "keywords": [
       ]
-    },
-    {
-      "name": "Artificial Intelligence",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
@@ -57,7 +62,10 @@
         "Java",
         "Javascript",
         "C",
-        "C++"
+        "C++",
+        "Node.js",
+        "React",
+        "React-Native"
       ]
     },
     {
@@ -90,6 +98,21 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 111: Intro to Computer Science I",
+        "ICS 141: Discrete Math for CS I",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 212: Program Structure",
+        "ICS 241: Discrete Math for CS II",
+        "ICS 311: Algorithms",
+        "ICS 312: Machine-Level & Systems Programing",
+        "ICS 314: Software Engineering I",
+        "ICS 321: Database Systems I",
+        "ICS 332: Operating Systems",
+        "ICS 414: Software Engineering II",
+        "ICS 432: Concurrent Programming",
+        "ICS 451: Data Networks",
+        "ICS 486: Virtual & Augmented Reality Progamming",
+        "ICS 491: Special Topics (Mobile Development & HACC)",
       ]
     }
   ],
